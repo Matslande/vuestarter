@@ -23,22 +23,22 @@ export default {
   name: 'list',
   data () {
     return {
-      messages:  ['item 1', 'item 2', 'item 3'],
+      messages: [ 'item 1', 'item 2', 'item 3' ],
       numbers: [ 1, 2, 3, 4, 5 ],
       objectItems: {
-       key1: 'item1',
-       key2: 'item2',
+        key1: 'item1',
+        key2: 'item2',
         key3: 'item3'
       }
     }
-},
+  },
   computed: {
-  evenNumbers: function () {
-    return this.numbers.filter(function (number) {
-      return number % 2 === 0
-    })
+    evenNumbers: function () {
+      return this.numbers.filter(function (number) {
+        return number % 2 === 0
+      })
+    }
   }
-}
 }
 </script>
 

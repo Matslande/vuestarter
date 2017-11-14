@@ -18,26 +18,26 @@ export default {
       tittel: 'Take som data and loop over it in a grid',
       exampleItems: [
         { title: 'First Title',
-          byline: 'A bit longer text on this line',
+          byline: 'A bit longer text on this line'
         },
         { title: 'Second Title',
-          byline: 'A bit longer text on this line',
+          byline: 'A bit longer text on this line'
         },
         { title: 'Third Title',
-          byline: 'A bit longer text on this line',
+          byline: 'A bit longer text on this line'
         },
         { title: 'Fourth Title',
-          byline: 'A bit longer text on this line',
+          byline: 'A bit longer text on this line'
         },
         { title: 'Fifth Title',
-          byline: 'A bit longer text on this line',
+          byline: 'A bit longer text on this line'
         },
         { title: 'Sixth Title',
-          byline: 'A bit longer text on this line',
+          byline: 'A bit longer text on this line'
         }
       ]
     }
-}
+  }
 }
 </script>
 
