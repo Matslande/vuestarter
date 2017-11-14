@@ -10,7 +10,7 @@ module.exports = {
   name: 'importComponent',
   data: function () {
     return {
-      message: 'I am a imported'
+      message: '👉 I am a imported'
     }
   }
 }

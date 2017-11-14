@@ -10,7 +10,7 @@
         <router-link to="/list">List</router-link>
     </div>
     <div class="item">
-        <router-link to="/edittext">Component</router-link>
+        <router-link to="/example">Component</router-link>
     </div>
     <div class="item">
         <router-link to="/grid">Grid</router-link>
