@@ -1,6 +1,7 @@
 # vue-starter
 
-> Vue Starter
+# install
+git clone git@github.com:Matslande/vuestarter.git
 
 ## Build Setup
 
